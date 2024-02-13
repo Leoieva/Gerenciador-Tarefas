@@ -9,3 +9,5 @@ Abaixo está uma descrição dos conhecimentos desenvolvidos através deste proj
 - Uso de `switch-case` para as escolhas do programa;
 - Uso de `loops e condições`.
 - Verificação `de mapa vazio`.
+
+![image](https://github.com/Leoieva/Gerenciador-Tarefas/assets/106480360/4d1b2443-e09b-4188-9ddf-91d741b10ac1)
