@@ -1,4 +1,4 @@
-# Gerencia suas tarefas: adicionando, excluindo e vendo a sua lista.
+# Gerencie suas tarefas: adicionando, excluindo e vendo a sua lista.
 
 Um gerenciador simples que possibilita o usuário escolher entre adicionar, excluir e ver tarefas em texto.
 Abaixo está uma descrição dos conhecimentos desenvolvidos através deste projeto:
